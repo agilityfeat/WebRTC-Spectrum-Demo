@@ -1,0 +1,5 @@
+html,body{margin:0;padding:0;}
+body{background:url('../img/background.png') top left no-repeat #000;}
+button{border-radius:5px;background:#97ff00;color:#e50000;padding:26px 56px;border:none;font-size:24px;font-weight:bold;font-family:sans-serif;cursor:pointer;position:absolute;top:570px;left:100px;box-shadow:1px 1px 1px 1px #000;}
+button:hover{background:#53d69a;}
+button:active{background:#ff9700;}
